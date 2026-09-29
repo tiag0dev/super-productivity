@@ -1,0 +1,2 @@
+import{b as m,f as u}from"./chunk-FDTJTD3F.js";import{e as n}from"./chunk-PE6UJDCZ.js";var s,f,a=n(()=>{"use strict";s=o=>o.match(/\.(jpeg|jpg|gif|png)$/i)!==null,f=o=>new Promise(r=>{let t=new Image,e=!1;t.onerror=t.onabort=()=>{e||(clearTimeout(i),r(!1))},t.onload=()=>{e||(clearTimeout(i),r(!0))},t.src=o;let i=setTimeout(()=>{e=!0,t.src="//!!!!/test.jpg",r(!1)},5e3)})});var c=n(()=>{"use strict"});var T,g=n(()=>{"use strict";u();c();T=m("Keyboard")});export{s as a,f as b,a as c,T as d,g as e};
+//# sourceMappingURL=chunk-CBAZFQEW.js.map

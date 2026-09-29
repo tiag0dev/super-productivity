@@ -1,0 +1,2 @@
+import{a as r,q as E}from"./chunk-BJMTKLSK.js";import{a as i,b as _,d as e}from"./chunk-72PR7UCA.js";import{a as t,d as I}from"./chunk-GYGD6DAD.js";import{e as o}from"./chunk-PE6UJDCZ.js";var O,s=o(()=>{"use strict";E();e();I();O={isNativePlatform:i,isAndroidWebView:t,isIosNative:_,isElectron:r}});var a,A=o(()=>{"use strict";a=()=>globalThis.CapacitorWebFetch??fetch});export{O as a,s as b,a as c,A as d};
+//# sourceMappingURL=chunk-S45EIVO3.js.map

@@ -1,0 +1,2 @@
+import{a as o,b as c}from"./chunk-76OIFJ6A.js";import{$b as i,Ea as r,ie as m}from"./chunk-J4GNA76R.js";import{e as n}from"./chunk-PE6UJDCZ.js";var T,p=n(()=>{"use strict";m();c();m();T=(()=>{class t{constructor(){this.dateTimeFormatService=r(o)}transform(e){return typeof e!="number"?null:this.dateTimeFormatService.formatTime(e)}static{this.\u0275fac=function(a){return new(a||t)}}static{this.\u0275pipe=i({name:"shortTime",type:t,pure:!0})}}return t})()});export{T as a,p as b};
+//# sourceMappingURL=chunk-HFHXU43K.js.map

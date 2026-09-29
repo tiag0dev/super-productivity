@@ -1,0 +1,2 @@
+import{da as u,o as n}from"./chunk-WXSECZK5.js";import{a as e,e as a}from"./chunk-PE6UJDCZ.js";var d,l,m,s=a(()=>{"use strict";u();d=r=>{try{let t=new URL(r);return`${t.host}${t.pathname}`}catch(t){return r}},l=r=>{try{return new URL(r).host}catch(t){return"[invalid-url]"}},m=(r,t={})=>{let{name:c,code:o}=n(r);return e(e({errorName:c},o!==void 0?{errorCode:o}:{}),t)}});export{d as a,l as b,m as c,s as d};
+//# sourceMappingURL=chunk-XZX23O37.js.map
