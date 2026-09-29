@@ -8,21 +8,11 @@ export const BUNDLED_PLUGIN_PATHS = [
   'assets/bundled-plugins/yesterday-tasks-plugin',
   'assets/bundled-plugins/sync-md',
   'assets/bundled-plugins/api-test-plugin',
-  'assets/bundled-plugins/procrastination-buster',
   'assets/bundled-plugins/automations',
-  'assets/bundled-plugins/github-issue-provider',
-  'assets/bundled-plugins/clickup-issue-provider',
-  'assets/bundled-plugins/gitea-issue-provider',
-  'assets/bundled-plugins/linear-issue-provider',
-  'assets/bundled-plugins/trello-issue-provider',
-  'assets/bundled-plugins/azure-devops-issue-provider',
-  'assets/bundled-plugins/brain-dump',
   'assets/bundled-plugins/voice-reminder',
   'assets/bundled-plugins/google-calendar-provider',
   'assets/bundled-plugins/caldav-calendar-provider',
   'assets/bundled-plugins/doc-mode',
-  'assets/bundled-plugins/todoist-import',
-  'assets/bundled-plugins/parallel-code',
 ] as const;
 
 // Reserved ids: an uploaded plugin may not reuse a bundled plugin's manifest id (it would
